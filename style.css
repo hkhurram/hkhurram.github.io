@@ -310,11 +310,6 @@ h3 {
 	height: auto;
 	/*padding: .5rem;*/
 	-webkit-overflow-scrolling: touch;
-	-ms-overflow-style: none;
-}
-
-.rightfloat::-webkit-scrollbar {
-	display: none;
 }
 
 
