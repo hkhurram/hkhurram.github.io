@@ -1,0 +1,72 @@
+body {
+	background: #ffffff;
+}
+
+p {
+	width: 70%;
+	float: right;
+	font-family: proxima-nova, sans-serif;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 20px;
+	color: #848484;
+}
+
+h1 {
+	font-family: "Novar";
+	font-style: normal;
+	font-weight: 500;
+	color: #5f3d70;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	padding-top: 45px;
+
+}
+
+h2 {
+
+	font-family: proxima-nova, sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 15px;
+	color: #876e94;
+}
+
+h3 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	font-family: proxima-nova, sans-serif;
+	font-style: italic;
+	font-weight: 100;
+	font-size: 13px;
+	color: #c1c1c1;
+	padding-top: 70px;
+
+}
+
+img {
+
+	border-radius: 25px;
+	width: 225px;
+	margin-left: 25px;
+	margin-top: 10px;
+
+}
+
+#entry {
+
+	padding-top: 40px;
+}
+
+#container {
+
+	width: 88%;
+	max-width: 68em;
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
