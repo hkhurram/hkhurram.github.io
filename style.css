@@ -530,3 +530,7 @@ input[type=submit] {
 .bottom {
 	transform: translate(0%, -40%);
 }
+
+.bottom1 {
+	transform: translate(0%, -15%);
+}
