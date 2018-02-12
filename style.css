@@ -16,7 +16,6 @@ body {
 
 }
 
-
 h1 {
 	font-family: "Novar";
 	font-style: normal;
@@ -57,18 +56,14 @@ h3 {
 
 
 #navbar ul {
-
-
 	overflow: hidden;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	display: inline-block;
-
 }
 
 #navbar li {
-	
 	float: left;
 	font-weight: 700;
 	font-size: 14px;
@@ -76,7 +71,6 @@ h3 {
 }
 
 #navbar a {
-
 	padding: 0px 8px;
 	text-decoration: none;
 	font-family: "pragmatica",sans-serif;
@@ -84,20 +78,15 @@ h3 {
 	font-weight: 400;
 	font-size: 15px;
 	color: #FFFFFF;
-	opacity: 1;
-	
+	opacity: 1;	
 }
 
 #navbar a:hover {
-
 	opacity: 0.5;
-
 }
 
 #navbar a.active {
-
 	opacity: 0.5;
-
 }
 
 #navbar2 {
@@ -108,33 +97,24 @@ h3 {
 	/*position: fixed;*/
 	z-index: 1;
 	transition: 0.5s;
-
 }
 
 #navbar2 ul {
-
-
 	overflow: hidden;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	display: inline-block;
-
 }
 
 #navbar2 li {
-	
 	float: left;
 	font-weight: 700;
 	font-size: 14px;
 	color: #000000;
 }
 
-
-
-
 #navbar2 a {
-
 	padding: 0px 8px;
 	text-decoration: none;
 	font-family: "pragmatica",sans-serif;
@@ -142,20 +122,15 @@ h3 {
 	font-weight: 400;
 	font-size: 15px;
 	color: #000000;
-	opacity: 1;
-	
+	opacity: 1;	
 }
-
-
-
-
 
 #page1 {
 	width: 100%;
 	height: 100vh;
 	min-width: 1000px;
 	min-height: 650px;
-	background-image: url(BG.png);
+	background-image: url(IMG_4542-min.JPG);
 	background-size: cover;
 	transition: background-color 0.5s ease;
 
