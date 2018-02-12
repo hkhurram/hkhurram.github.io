@@ -130,10 +130,9 @@ h3 {
 	height: 100vh;
 	min-width: 1000px;
 	min-height: 650px;
-	background-image: url(IMG_4542-min.JPG);
+	background-image: url(photo.JPG);
 	background-size: cover;
 	transition: background-color 0.5s ease;
-
 }
 
 
@@ -157,7 +156,6 @@ h3 {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, 80%);
-
 }
 
 
@@ -167,7 +165,6 @@ h3 {
 	min-width: 1000px;
 	min-height: 585px;
 	background: white;
-
 }
 
 
@@ -182,8 +179,6 @@ h3 {
 	font-size: 50px;
 	color: #000000;
 	padding-top: 40vh;
-
-
 }
 
 
@@ -208,19 +203,14 @@ h3 {
 	padding-top: 35vh;
 }
 
-
-
 #Coding, #Digital, #Design {
 	padding-bottom: 120px;
 }
 
-
-
-
 .tab {
-width: 52%;
+        width: 52%;
 	transform: translate(50%, 0%);
-margin: auto;
+        margin: auto;
 	display: inline-flex;
 }
 
