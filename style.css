@@ -259,6 +259,24 @@ h3 {
 	will-change: overflow;
 }
 
+.grid3 {
+	column-count: 2;
+	column-gap: 15px;  
+	margin-right: 5%;
+	margin-left: 2%;
+
+
+}
+
+.grid3 img {
+	padding: 0;
+	width: 100%;
+	height: auto;
+	margin-top: 13px;
+	border-style: none;
+	border-width: 3px;
+	border-radius: 25px;
+}
 
 
 .leftfloat {
