@@ -207,6 +207,13 @@ h3 {
 	padding-bottom: 120px;
 }
 
+#learn {
+transform: translate(20%, 0%);
+margin: auto;
+font-size: 16px;
+font-style: italic;
+}
+
 .tab {
         width: 52%;
 	transform: translate(50%, 0%);
