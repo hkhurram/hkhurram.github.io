@@ -329,11 +329,11 @@ h3 {
 
 .overlay {
 	position: absolute;
-	top: 0;
+	top: 6%;
 	bottom: 0;
 	left: 0;
 	right: 0;
-	height: 97%;
+	height: 89%;
 	width: 100%;
 	opacity: 0;
 	background-color: #000000;
