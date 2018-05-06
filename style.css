@@ -208,7 +208,7 @@ h3 {
 }
 
 #learn {
-transform: translate(20%, 0%);
+transform: translate(10vw, 0%);
 margin: auto;
 font-size: 16px;
 font-style: italic;
@@ -216,7 +216,7 @@ font-style: italic;
 
 .tab {
         width: 52%;
-	transform: translate(50%, 0%);
+	transform: translate(13vw, 0%);
         margin: auto;
 	display: inline-flex;
 }
