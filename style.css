@@ -268,9 +268,9 @@ font-style: italic;
 
 .grid3 {
 	column-count: 2;
-	column-gap: 15px;  
-	margin-right: 5%;
-	margin-left: 2%;
+	column-gap: 2vw;  
+	margin-right: 2vw;
+	margin-left: 1vw;
 
 
 }
